@@ -1,8 +1,8 @@
-# NBA Sports Betting Using Machine Learning
-<img src="https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting/blob/master/Screenshots/output.png" width="1010" height="292" />
+# Sports Betting Using Machine Learning
+<img src="https://github.com/garrettLLM/oracle/blob/master/Screenshots/output.png" width="1010" height="292" />
 
 ## Overview
-This project predicts NBA game winners and totals (over/under) using team stats and sportsbook odds. It pulls team data from 2007-08 through the current season, builds matchup features, and runs trained models to estimate win probabilities and totals outcomes. It also outputs expected value and optional Kelly Criterion stake sizing.
+This project predicts NBA and FIFA game winners and totals (over/under) using team stats and sportsbook odds. It pulls team data from 2007-08 through the current season, builds matchup features, and runs trained models to estimate win probabilities and totals outcomes. It also outputs expected value and optional Kelly Criterion stake sizing.
 
 ## Features
 - Moneyline and totals predictions (XGBoost and Neural Net models).
